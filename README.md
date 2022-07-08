@@ -1,3 +1,6 @@
+# NOTE: This repository is a work-in-progress, it may never be finished.
+## But if it is
+### We will have an implementation of PYMDP which can use continuous distributions
 
 <p align='center'>
   <a href='https://github.com/infer-actively/pymdp'>
